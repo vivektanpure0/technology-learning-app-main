@@ -88,7 +88,7 @@ class PostCourse extends PureComponent {
                                 <Form>
                                 <div className="form-group">
                                         <label>Course Name:</label>
-                                        <input placeholder="Job title" className="form-control" name="jobTitle"
+                                        <input placeholder="Course title" className="form-control" name="courseTitle"
                                             value={this.state.cname} onChange={this.changeCourseNameHandler} />
                                     </div>
                                     <div className="form-group">
