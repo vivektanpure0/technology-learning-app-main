@@ -104,5 +104,5 @@ class CourseSearch extends Component {
         );
     }
 }
-
+  
 export default CourseSearch;
