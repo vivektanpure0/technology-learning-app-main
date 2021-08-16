@@ -96,7 +96,7 @@ class CourseSearch extends Component {
                         // :""
                     }
                     {
-                        this.state.noData?<h3>Launching this Course soon..Stay tuned!</h3>:null
+                        this.state.noData?<h3>Launching this Course soon..Stay tuned!!!</h3>:null
                     } 
                 </div>
 
